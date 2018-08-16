@@ -7,9 +7,9 @@ Very simple android app code.
 
 Eclipse for Android project.<br/>
 Arduino source file : 'Arduino src' directory<br/>
-Play store : <a href="https://play.google.com/store/apps/details?id=kr.re.Dev.BluetoothEcho"> https://play.google.com/store/apps/details?id=kr.re.Dev.BluetoothEcho</a>
-
-![screenshot](http://cfile8.uf.tistory.com/image/21381E3653A62953108254)
+Link : <a href="http://www.cprtestcenter.com/">CPR</a>
 
 
-Blog : http://Dev.re.kr
+
+
+
